@@ -1,4 +1,6 @@
-Bu veri seti, farklı ülkelerdeki kadınların erkeklere kıyasla ücretsiz bakım işlerine harcadıkları zamanın cinsiyet oranlarını içeriyor. Her bir satır bir ülkeyi temsil ediyor ve sırasıyla ülkenin adı, kodu, yılı ve kadınların erkeklere kıyasla ücretsiz bakım işlerine harcadıkları zamanın oranı bulunuyor.
+Bu veri seti, farklı ülkelerdeki kadınların erkeklere kıyasla ücretsiz bakım işlerine harcadıkları zamanın cinsiyet oranlarını içeriyor.
+Her bir satır bir ülkeyi temsil ediyor ve sırasıyla ülkenin adı, kodu, yılı ve kadınların erkeklere kıyasla ücretsiz bakım işlerine 
+harcadıkları zamanın oranı bulunuyor.
 
 Örneğin, ilk satırda:
 
