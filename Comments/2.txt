@@ -12,4 +12,8 @@ En zengin %0.5'in üzerindeki kadınların payı: Bilgi mevcut değil (boş)
 En zengin %10'un üzerindeki kadınların payı: 18.3%
 En zengin %5'in üzerindeki kadınların payı: 24.9%
 En zengin %1'in üzerindeki kadınların payı: 21.1%
-Bu veri seti, ülkelerin gelir dağılımındaki cinsiyet eşitsizliğini ölçmek için kullanılabilir. Özellikle, belirli bir ülkedeki zenginlikteki kadınların oranının zaman içinde nasıl değiştiğini analiz etmek için kullanılabilir. Daha yüksek oranlar, üst gelir dilimlerinde daha fazla kadın temsil edildiğini, daha düşük oranlar ise cinsiyet eşitsizliğinin daha belirgin olduğunu gösterebilir. Bu veri, cinsiyet eşitsizliği üzerine politikalar geliştirmek isteyen araştırmacılar ve politika yapıcılar için önemli bir kaynak olabilir.
+Bu veri seti, ülkelerin gelir dağılımındaki cinsiyet eşitsizliğini ölçmek için kullanılabilir. Özellikle, belirli bir ülkedeki zenginlikteki kadınların oranının zaman içinde nasıl değiştiğini analiz etmek için kullanılabilir.
+Daha yüksek oranlar, üst gelir dilimlerinde daha fazla kadın temsil edildiğini, 
+daha düşük oranlar ise cinsiyet eşitsizliğinin daha belirgin olduğunu gösterebilir. 
+Bu veri, cinsiyet eşitsizliği üzerine politikalar geliştirmek isteyen araştırmacılar
+ve politika yapıcılar için önemli bir kaynak olabilir.
